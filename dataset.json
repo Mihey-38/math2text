@@ -1,0 +1,458 @@
+[
+  {
+    "mathml": "<math><mn>2</mn><mi>a</mi><mi>b</mi></math>",
+    "description": "сумма x и y"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>-</mo><mi>y</mi></math>",
+    "description": "разность x и y"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>⋅</mo><mi>y</mi></math>",
+    "description": "произведение x и y"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>/</mo><mi>y</mi></math>",
+    "description": "частное x и y"
+  },
+  {
+    "mathml": "<math><msup><mi>a</mi><mn>2</mn></msup></math>",
+    "description": "a в квадрате"
+  },
+  {
+    "mathml": "<math><mfrac><mi>a</mi><mi>x</mi></mfrac></math>",
+    "description": "отношение a и x"
+  },
+  {
+    "mathml": "<math><msqrt><mi>x</mi></msqrt></math>",
+    "description": "корень из x"
+  },
+  {
+    "mathml": "<math><msup><mi>b</mi><mn>3</mn></msup></math>",
+    "description": "b в кубе"
+  },
+  {
+    "mathml": "<math><mfrac><mi>a</mi><mi>b</mi></mfrac></math>",
+    "description": "отношение a и b"
+  },
+  {
+    "mathml": "<math><mi>a</mi><mo>+</mo><msqrt><mi>b</mi></msqrt></math>",
+    "description": "сумма a и корня из b"
+  },
+  {
+    "mathml": "<math><mrow><msup><mrow><mfenced><mi>x</mi><mo>+</mo><mi>y</mi></mfenced></mrow><mn>2</mn></msup><mo>+</mo><mn>3</mn><mn>8</mn></mrow></math>",
+    "description": "сумма (сумма x и y) в квадрате и 3 и 8"
+  },
+  {
+    "mathml": "<math><mrow><mfenced><mn>4</mn><mn>3</mn><mo>+</mo><mn>2</mn><mn>4</mn></mfenced><mo>·</mo><mn>8</mn></mrow><mo>-</mo><mn>5</mn></math>",
+    "description": "numbers"
+  },
+  {
+    "mathml": "<math><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>=</mo><mn>5</mn></math>",
+    "description": "сумма x и 2 = 5"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>≥</mo><mn>5</mn></math>",
+    "description": "x больше или равно 5"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>≤</mo><mn>5</mn></math>",
+    "description": "x меньше или равно 5"
+  },
+  {
+    "mathml": "<math><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>+</mo><mi>y</mi></math>",
+    "description": "сумма x и 4 и y"
+  },
+  {
+    "mathml": "<math><mfrac><mrow><mrow><munderover><mo>&#x2211;</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>5</mn></mrow></munderover></mrow><mi>n</mi></mrow><mi>a</mi></mfrac></math>",
+    "description": "сумма от n равно 1 до 5 от n"
+  },
+  {
+    "mathml": "<math><mrow><msubsup><mo>&#x222b;</mo><mrow><mi>n</mi><mo>=</mo><mn>1</mn></mrow><mrow><mn>5</mn></mrow></msubsup><mi>x</mi></mrow></math>",
+    "description": "int"
+  },
+  {
+    "mathml": "<math><mrow><msubsup><mo>&#x2211;</mo><mrow><mi>i</mi><mo>=</mo><mn>0</mn></mrow><mrow><mn>10</mn></mrow></msubsup><mi>i</mi></mrow></math>",
+    "description": "сумма от i равно 0 до 10 от i"
+  },
+  {
+    "mathml": "<math><mrow><msubsup><mo>&#x222b;</mo><mrow><mi>m</mi><mo>=</mo><mn>2</mn></mrow><mrow><mn>10</mn></mrow></msubsup><mi>x</mi></mrow><mo>+</mo><mn>2</mn></math>",
+    "description": "интеграл по m равно 2 до 10 от x плюс 2"
+  },
+  {
+    "mathml": "<math><mrow><msup><mrow><mfenced><mi>x</mi><mo>+</mo><mi>y</mi></mfenced></mrow><mn>2</mn></msup><mo>+</mo><mn>3</mn><mn>8</mn></mrow></math>",
+    "description": "сумма (сумма x и y) в квадрате и 3 и 8"
+  },
+  {
+    "mathml": "<math><mn>2</mn><mi>a</mi><mi>b</mi></math>",
+    "description": "сумма x и y"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>-</mo><mi>y</mi></math>",
+    "description": "разность x и y"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>⋅</mo><mi>y</mi></math>",
+    "description": "произведение x и y"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>/</mo><mi>y</mi></math>",
+    "description": "частное x и y"
+  },
+  {
+    "mathml": "<math><msup><mi>a</mi><mn>2</mn></msup></math>",
+    "description": "a в квадрате"
+  },
+  {
+    "mathml": "<math><mfrac><mi>a</mi><mi>x</mi></mfrac></math>",
+    "description": "отношение a и x"
+  },
+  {
+    "mathml": "<math><msqrt><mi>x</mi></msqrt></math>",
+    "description": "корень из x"
+  },
+  {
+    "mathml": "<math><msup><mi>b</mi><mn>3</mn></msup></math>",
+    "description": "b в кубе"
+  },
+  {
+    "mathml": "<math><mfrac><mi>a</mi><mi>b</mi></mfrac></math>",
+    "description": "отношение a и b"
+  },
+  {
+    "mathml": "<math><mi>a</mi><mo>+</mo><msqrt><mi>b</mi></msqrt></math>",
+    "description": "сумма a и корня из b"
+  },
+  {
+    "mathml": "<math><mrow><mfenced><mn>4</mn><mn>3</mn><mo>+</mo><mn>2</mn><mn>4</mn></mfenced><mo>·</mo><mn>8</mn></mrow><mo>-</mo><mn>5</mn></math>",
+    "description": "numbers"
+  },
+  {
+    "mathml": "<math><mrow><mi>x</mi><mo>+</mo><mn>2</mn></mrow><mo>=</mo><mn>5</mn></math>",
+    "description": "сумма x и 2 = 5"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>≥</mo><mn>5</mn></math>",
+    "description": "x больше или равно 5"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>≤</mo><mn>5</mn></math>",
+    "description": "x меньше или равно 5"
+  },
+  {
+    "mathml": "<math><mrow><mi>x</mi><mo>+</mo><mn>4</mn></mrow><mo>+</mo><mi>y</mi></math>",
+    "description": "сумма x и 4 и y"
+  },
+  {
+    "mathml": "<math><mi>E</mi><mo>=</mo><mi>m</mi><mo>⋅</mo><msup><mi>c</mi><mn>2</mn></msup></math>",
+    "description": "Энергия равна произведению массы на квадрат скорости света"
+  },
+  {
+    "mathml": "<math><mi>a</mi><mo>+</mo><mi>b</mi></math>",
+    "description": "сумма a и b"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>=</mo><mfrac><mi>y</mi><mi>z</mi></mfrac></math>",
+    "description": "x равно отношение y к z"
+  },
+  {
+    "mathml": "<math><mrow><mi>x</mi><mo>≥</mo><mn>0</mn></mrow></math>",
+    "description": "x больше или равно нулю"
+  },
+  {
+    "mathml": "<math><msup><mi>x</mi><mn>2</mn></msup><mo>+</mo><msup><mi>y</mi><mn>2</mn></msup><mo>=</mo><msup><mi>r</mi><mn>2</mn></msup></math>",
+    "description": "уравнение окружности: x квадрат плюс y квадрат равно r квадрат"
+  },
+  {
+    "mathml": "<math><mi>F</mi><mo>=</mo><mrow><mi>m</mi><mo>⋅</mo><mi>a</mi></mrow></math>",
+    "description": "сила равна масса умножить на ускорение"
+  },
+  {
+    "mathml": "<math><mfrac><mi>a</mi><mrow><mi>b</mi><mo>+</mo><mi>c</mi></mrow></mfrac></math>",
+    "description": "отношение a к сумме b и c"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>≤</mo><mi>y</mi></math>",
+    "description": "x меньше или равно y"
+  },
+  {
+    "mathml": "<math><msqrt><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow></msqrt></math>",
+    "description": "корень из суммы a и b"
+  },
+  {
+    "mathml": "<math><mi>a</mi><mo>−</mo><mi>b</mi></math>",
+    "description": "разность a и b"
+  },
+  {
+    "mathml": "<math><mi>y</mi><mo>=</mo><msup><mi>x</mi><mn>3</mn></msup></math>",
+    "description": "y равно x в кубе"
+  },
+  {
+    "mathml": "<math><mrow><mi>a</mi><mo>/</mo><mi>b</mi></mrow></math>",
+    "description": "частное a и b"
+  },
+  {
+    "mathml": "<math><mi>v</mi><mo>=</mo><mfrac><mi>s</mi><mi>t</mi></mfrac></math>",
+    "description": "скорость равно расстояние делить на время"
+  },
+  {
+    "mathml": "<math><mi>p</mi><mo>=</mo><mi>m</mi><mo>⋅</mo><mi>v</mi></math>",
+    "description": "импульс равен масса на скорость"
+  },
+  {
+    "mathml": "<math><msup><mi>e</mi><mrow><mi>i</mi><mi>π</mi></mrow></msup><mo>+</mo><mn>1</mn><mo>=</mo><mn>0</mn></math>",
+    "description": "формула Эйлера: e^(i*pi) + 1 = 0"
+  },
+  {
+    "mathml": "<math><mi>y</mi><mo>=</mo><mfrac><mn>1</mn><mi>x</mi></mfrac></math>",
+    "description": "y равно 1 делить на x"
+  },
+  {
+    "mathml": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>></mo><mi>c</mi></math>",
+    "description": "a плюс b больше c"
+  },
+  {
+    "mathml": "<math><mi>R</mi><mo>=</mo><mfrac><mo>1</mo><mi>p</mi></mfrac></math>",
+    "description": "сопротивление равно 1 делить на проводимость p"
+  },
+  {
+    "mathml": "<math><mi>P</mi><mo>=</mo><mfrac><mi>W</mi><mi>t</mi></mfrac></math>",
+    "description": "мощность равна работа делить на время"
+  },
+  {
+    "mathml": "<math><msup><mi>x</mi><mn>4</mn></msup><mo>−</mo><msup><mi>y</mi><mn>4</mn></msup></math>",
+    "description": "x в четвертой минус y в четвертой"
+  },
+  {
+    "mathml": "<math><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>)</mo><msup><mo>^</mo><mn>2</mn></msup></math>",
+    "description": "(a+b) в квадрате"
+  },
+  {
+    "mathml": "<math><mi>c</mi><mo>=</mo><msqrt><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></msqrt></math>",
+    "description": "теорема Пифагора: c равно корень из (a квадрат плюс b квадрат)"
+  },
+  {
+    "mathml": "<math><mi>λ</mi><mo>=</mo><mfrac><mi>h</mi><mi>p</mi></mfrac></math>",
+    "description": "длина волны лямбда равна постоянная Планка делить на импульс"
+  },
+  {
+    "mathml": "<math><mi>F</mi><mo>=</mo><mfrac><mi>k</mi><mo>⋅</mo><msup><mi>q</mi><mn>2</mn></msup></mfrac><msup><mi>r</mi><mn>2</mn></msup></math>",
+    "description": "закон Кулона: сила равна k q^2 / r^2"
+  },
+  {
+    "mathml": "<math><mi>S</mi><mo>=</mo><mfrac><mn>1</mn><mi>x</mi></mfrac><mo>+</mo><mfrac><mn>1</mn><mi>y</mi></mfrac></math>",
+    "description": "S равно 1/x плюс 1/y"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>+</mo><mi>y</mi><mo>=</mo><mi>z</mi></math>",
+    "description": "x плюс y равно z"
+  },
+  {
+    "mathml": "<math><msup><mi>z</mi><mn>5</mn></msup><mo>−</mo><mi>z</mi></math>",
+    "description": "z в пятой минус z"
+  },
+  {
+    "mathml": "<math><mi>L</mi><mo>=</mo><mfrac><mi>V</mi><mi>I</mi></mfrac></math>",
+    "description": "индуктивность равно напряжение делить на ток"
+  },
+  {
+    "mathml": "<math><mi>Q</mi><mo>=</mo><mi>I</mi><mo>⋅</mo><mi>t</mi></math>",
+    "description": "заряд Q равно ток умножить на время"
+  },
+  {
+    "mathml": "<math><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi></math>",
+    "description": "сумма a, b и c"
+  },
+  {
+    "mathml": "<math><mi>A</mi><mo>=</mo><mfrac><mn>1</mn><mn>2</mn></mfrac><mi>b</mi><mi>h</mi></math>",
+    "description": "площадь треугольника половина произведения основания на высоту"
+  },
+  {
+    "mathml": "<math><mi>E</mi><mo>=</mo><mi>h</mi><mo>⋅</mo><mi>ν</mi></math>",
+    "description": "энергия кванта равна постоянная Планка умножить на частоту"
+  },
+  {
+    "mathml": "<math><msqrt><mi>xy</mi></msqrt></math>",
+    "description": "корень из произведения x и y"
+  },
+  {
+    "mathml": "<math><mo>(</mo><mi>a</mi><mo>−</mo><mi>b</mi><mo>)</mo><msup><mo>^</mo><mn>3</mn></msup></math>",
+    "description": "(a−b) в кубе"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>≥</mo><mi>y</mi></math>",
+    "description": "x больше или равно y"
+  },
+  {
+    "mathml": "<math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>x</mi><mo>+</mo><mn>1</mn></math>",
+    "description": "функция f(x) равно x плюс 1"
+  },
+  {
+    "mathml": "<math><mfrac><mrow><mn>1</mn></mrow><mrow><mfrac><mn>1</mn><mi>x</mi></mfrac></mrow></mfrac></math>",
+    "description": "1 делить на (1 делить на x)"
+  },
+  {
+    "mathml": "<math><mrow><mi>G</mi><mo>=</mo><mfrac><mi>N</mi><mi>A</mi></mfrac></mrow></math>",
+    "description": "G равно отношение N к A"
+  },
+  {
+    "mathml": "<math><mrow><mi>k</mi><mo>+</mo><mi>l</mi></mrow><mo>&#x2212;</mo><mi>m</mi></math>",
+    "description": "k плюс l минус m"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>/</mo><mn>10</mn></math>",
+    "description": "x делить на 10"
+  },
+  {
+    "mathml": "<math><msqrt><msup><mi>x</mi><mn>2</mn></msup></msqrt></math>",
+    "description": "корень из x квадрат"
+  },
+  {
+    "mathml": "<math><mi>v</mi><mo>≤</mo><mi>u</mi></math>",
+    "description": "v меньше или равно u"
+  },
+  {
+    "mathml": "<math><mi>P</mi><mo>=</mo><mi>n</mi><mo>!</mo></math>",
+    "description": "P равно факториалу n"
+  },
+  {
+    "mathml": "<math><mfrac><msup><mi>x</mi><mn>3</mn></msup><msup><mi>y</mi><mn>3</mn></msup></mfrac></math>",
+    "description": "x куб делить на y куб"
+  },
+  {
+    "mathml": "<math><mi>z</mi><mo>−</mo><mi>x</mi><mo>/</mo><mi>y</mi></math>",
+    "description": "z минус (x делить на y)"
+  },
+  {
+    "mathml": "<math><mi>c</mi><mo>=</mo><mfrac><mi>d</mi><mi>e</mi></mfrac></math>",
+    "description": "c равно d делить на e"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>></mo><mn>2</mn></math>",
+    "description": "x больше 2"
+  },
+  {
+    "mathml": "<math><mi>y</mi><mo>≥</mo><mn>10</mn></math>",
+    "description": "y больше или равно 10"
+  },
+  {
+    "mathml": "<math><mi>A</mi><mo>=</mo><mi>π</mi><msup><mi>r</mi><mn>2</mn></msup></math>",
+    "description": "площадь круга π r²"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>=</mo><mfrac><mo>−</mo><mi>b</mi><mo>±</mo><msqrt><msup><mi>b</mi><mn>2</mn></msup><mo>−</mo><mn>4</mn><mi>a</mi><mi>c</mi></msqrt><mo></mo><mn>2</mn><mi>a</mi></mfrac></math>",
+    "description": "формула корней квадратного уравнения"
+  },
+  {
+    "mathml": "<math><mi>u</mi><mo>/</mo><mn>5</mn></math>",
+    "description": "u делить на 5"
+  },
+  {
+    "mathml": "<math><mfrac><msup><mi>x</mi><mn>5</mn></msup><mi>y</mi></mfrac></math>",
+    "description": "x в пятой делить на y"
+  },
+  {
+    "mathml": "<math><mi>F</mi><mo>=</mo><mi>k</mi><mo>⋅</mo><mfrac><mi>q1</mi><mi>q2</mi></mfrac><mo>/</mo><msup><mi>r</mi><mn>2</mn></msup></math>",
+    "description": "закон Кулона с q1 и q2"
+  },
+  {
+    "mathml": "<math><mi>Q</mi><mo>=</mo><mfrac><mn>1</mn><mi>C</mi></mfrac></math>",
+    "description": "Q равно 1 делить на C"
+  },
+  {
+    "mathml": "<math><mo>(</mo><mi>a</mi><mo>+</mo><mi>b</mi><mo>+</mo><mi>c</mi><mo>)</mo></math>",
+    "description": "сумма a b и c в скобках"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>−</mo><mn>7</mn></math>",
+    "description": "x минус 7"
+  },
+  {
+    "mathml": "<math><msup><mi>e</mi><mi>x</mi></msup></math>",
+    "description": "e в степени x"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>+</mo><mfrac><mn>1</mn><mi>x</mi></mfrac></math>",
+    "description": "x плюс 1/x"
+  },
+  {
+    "mathml": "<math><mfrac><mn>3</mn><mn>4</mn></mfrac></math>",
+    "description": "дробь 3/4"
+  },
+  {
+    "mathml": "<math><mi>R</mi><mo>=</mo><mfrac><mi>V</mi><mi>I</mi></mfrac></math>",
+    "description": "сопротивление R = V/I"
+  },
+  {
+    "mathml": "<math><mi>A</mi><mo>=</mo><mi>l</mi><mo>⋅</mo><mi>w</mi></math>",
+    "description": "площадь прямоугольника l*w"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>≤</mo><mn>100</mn></math>",
+    "description": "x меньше или равно 100"
+  },
+  {
+    "mathml": "<math><mi>u</mi><mo>/</mo><mi>v</mi></math>",
+    "description": "u делить на v"
+  },
+  {
+    "mathml": "<math><mi>α</mi><mo>=</mo><mi>β</mi></math>",
+    "description": "альфа равно бета"
+  },
+  {
+    "mathml": "<math><mi>π</mi><mo>≈</mo><mfrac><mn>22</mn><mn>7</mn></mfrac></math>",
+    "description": "пи примерно 22/7"
+  },
+  {
+    "mathml": "<math><mfrac><mn>10</mn><mn>2</mn></mfrac></math>",
+    "description": "10 делить на 2"
+  },
+  {
+    "mathml": "<math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>sin</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>",
+    "description": "f(x)=sin(x)"
+  },
+  {
+    "mathml": "<math><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo><mo>=</mo><mi>log</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>",
+    "description": "f(x)=log(x)"
+  },
+  {
+    "mathml": "<math><mi>f</mi><mo>(</mo><mi>t</mi><mo>)</mo><mo>=</mo><mn>2</mn><mi>t</mi><mo>+</mo><mn>5</mn></math>",
+    "description": "f(t)=2t+5"
+  },
+  {
+    "mathml": "<math><msqrt><mn>16</mn></msqrt></math>",
+    "description": "корень из 16"
+  },
+  {
+    "mathml": "<math><mi>L</mi><mo>+</mo><mi>M</mi></math>",
+    "description": "сумма L и M"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>=</mo><mo>(</mo><mi>y</mi><mo>−</mo><mi>z</mi><mo>)</mo></math>",
+    "description": "x равно (y−z)"
+  },
+  {
+    "mathml": "<math><mi>R</mi><mo>=</mo><mn>2</mn></math>",
+    "description": "R равно 2"
+  },
+  {
+    "mathml": "<math><mi>x</mi><mo>></mo><mn>1000</mn></math>",
+    "description": "x больше 1000"
+  },
+  {
+    "mathml": "<math><mi>a</mi><mo>⋅</mo><mn>0</mn></math>",
+    "description": "a умножить на 0"
+  },
+  {
+    "mathml": "<math><mfrac><mi>g</mi><mfrac><mi>h</mi><mi>j</mi></mfrac></mfrac></math>",
+    "description": "g делить на (h/j)"
+  },
+  {
+    "mathml": "<math><msup><mi>r</mi><mn>10</mn></msup></math>",
+    "description": "r в 10-й степени"
+  },
+  {
+    "mathml": "<math><mfrac><mn>1</mn><msqrt><mrow><msup><mi>a</mi><mn>2</mn></msup><mo>+</mo><msup><mi>b</mi><mn>2</mn></msup></mrow></msqrt></mfrac></math>",
+    "description": "отношение 1 и корня из суммы a в квадрате и b в квадрате"
+  }
+]
